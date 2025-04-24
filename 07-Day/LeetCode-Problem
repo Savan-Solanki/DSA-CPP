@@ -1,0 +1,14 @@
+IN THERE ALL QUESTION FROM LEETCODE, SOLWED THIS PROBLEMS IN EASY WAY
+
+                    ----->>>> ALL QUEASTIONS <<<<-----
+
+1. reverse integer
+   Given a signed s2-bitinteger x, return x witness digits reversed. I reversing & causes the
+   value to go outside the signed 32-bit integer range [-23, 23 - 1], then return 0.
+
+2. Complement of Base 10 Integer.
+    The complement of an intesser is the integer you get when you tip all the 'sco a's and all the
+    'sto a sinits binary representation.
+        • For examolo. The intcoor S is 101* in binary and its complement is *010" which is the
+          integer z.
+    Given an integer n, return its complement.
